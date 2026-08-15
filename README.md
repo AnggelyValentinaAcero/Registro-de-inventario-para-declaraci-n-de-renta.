@@ -1,0 +1,1 @@
+# Registro-de-inventario-para-declaraci-n-de-renta.
