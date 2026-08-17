@@ -22,4 +22,34 @@ Identificar, organizar y gestionar la información necesaria para el desarrollo 
 
 ---
 
+##     Entidades principales
 
+- **Categoría:** agrupa los productos según su naturaleza.
+- **Producto:** representa los productos que forman parte del inventario.
+- **Método de costeo:** contiene los métodos de costeo utilizados, como PEPS y promedio ponderado.
+- **Proveedor:** representa el tercero relacionado con las compras.
+- **Movimiento:** registra las entradas y salidas del inventario.
+- **Documento de soporte:** representa los documentos que respaldan los movimientos.
+- **Periodo fiscal:** agrupa los movimientos correspondientes a un año gravable.
+  
+---
+
+##     Modelo de desarrollo
+
+El proyecto utilizará un modelo de desarrollo incremental.
+El sistema será desarrollado mediante diferentes incrementos funcionales:
+
+1. Gestión de productos y categorías.
+2. Registro de movimientos de inventario.
+3. Cálculo del costo de ventas.
+4. Generación de reportes de cierre del periodo fiscal.
+
+---
+
+##  Integrantes
+
+- Valentina Acero
+- Quianwei chen
+- Jairo Naranjo
+
+---
