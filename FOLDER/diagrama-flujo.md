@@ -3,7 +3,8 @@
 El flujo comienza igual para todos los usuarios y luego se ramifica según el
 tipo de contribuyente.
 
-![Diagrama de flujo](img/diagrama-flujo.png)
+![Diagrama de flujo](<img width="1176" height="1600" alt="WhatsApp Image 2026-08-19 at 5 47 23 PM" src="https://github.com/user-attachments/assets/e3588bcd-3e56-4ee0-b964-ad2bc1e963c2" />
+)
 
 ## Paso común a todos los usuarios
 
