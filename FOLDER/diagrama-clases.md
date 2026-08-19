@@ -5,7 +5,8 @@ El modelo tiene dos niveles: uno general (`Contribuyente`, `FuenteIngreso`,
 específico de inventario, que solo aplica cuando el contribuyente tiene
 negocio.
 
-![Diagrama de clases](img/diagrama-clases.png)
+<img width="1076" height="1600" alt="WhatsApp Image 2026-08-19 at 6 52 33 PM" src="https://github.com/user-attachments/assets/b2ecfdaa-55ad-4e2a-a9ff-f5d768969d0e" />
+
 
 ## Clases — nivel general (todos los usuarios)
 
