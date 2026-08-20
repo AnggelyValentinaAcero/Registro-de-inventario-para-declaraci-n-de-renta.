@@ -145,5 +145,6 @@ El sistema será desarrollado mediante diferentes incrementos funcionales:
 - Valentina Acero
 - Quianwei chen
 - Jairo Naranjo
+- Juan Tellez
 
 ---
